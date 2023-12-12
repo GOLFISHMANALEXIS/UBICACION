@@ -39,3 +39,17 @@ Utilizar el sensor de ubicación para medir la distancia en latitud y longitud e
 ## FUNCIONAMIENTO DE BLOQUES
 
 Funciona de la siguiente manera inicia todas las variables globales de latitud longitud de punto A Y punto B con el sensor de ubicación inicia el recorrido y con la formula de Radianes hace que puedas calcular los pasos Y con el botón de reinicio pone a cero todos las variables
+
+<center>
+
+## LINK DE GALERIA
+<a href="https://gallery.appinventor.mit.edu/?galleryid=198fb988-73e1-4fa5-8e49-e9c796895290" style="text-decoration: none; display: inline-block; padding: 10px 20px; border: 2px solid #555; border-radius: 5px; background-color: #007bff; color: #fff; font-size: 16px;" rel="noopener">
+  GALERÍA
+</a>
+
+## link de APK
+<a href="https://drive.google.com/file/d/1_Sx1rv6-B5kKjlH5wFuneBBHje6JzapQ/view?usp=sharing" style="text-decoration: none; display: inline-block; padding: 10px 20px; border: 2px solid #555; border-radius: 5px; background-color: #007bff; color: #fff; font-size: 16px;" rel="noopener">
+  APK
+</a>
+
+</center>
